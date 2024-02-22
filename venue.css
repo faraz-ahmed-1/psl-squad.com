@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+}
+table{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+th{
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    margin: 0px;
+}
+.ls{
+    border-right: 2px solid black;
+}
+.last{
+    border-bottom: 2px solid black;
+}
+table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+th{
+    margin: 0px;
+}
+.nsk{
+    background-image: url(nsk.jpg);
+    background-size: cover;
+}
+.mcs{
+    background-image: url(mcs.jpg);
+    background-size: cover;
+}
+.gsl{
+    background-image: url(gsl.jpg);
+    background-size: 115%;
+}
+.rcs{
+    background-image: url(Rawalpindi-Cricket-Stadium.jpeg);
+    background-size: cover;
+}
+table{
+    background-color: aqua;
+    margin-left: 335px;
+    margin-right: 335px;
+}

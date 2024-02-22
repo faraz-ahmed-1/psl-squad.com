@@ -1,0 +1,22 @@
+img{
+    height: 590px;
+    width: 590px;
+    margin-left: 350px;
+    border: 1px solid black;
+    border-radius: 50%;
+    transition: all;
+    transition-duration: 3s;
+    transition-timing-function: ease-in-out;
+}
+p{
+    text-align: center;
+}
+body{
+    background-image: url(psl\ 9.jpg);
+    background-size: cover;
+}
+img:hover{
+    height: 590px;
+    width: 590px;
+    border-radius: 12px;
+}

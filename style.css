@@ -1,0 +1,101 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+.teams{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    border: 2px solid black;
+    height: 350px;
+    border-radius: 15px;
+    background-color: rgba(100, 150, 50, 0.6);
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url(psl\ 9.jpg);
+    background-size: 100%;
+}
+a{
+    transition: all;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+    padding: 2px;
+}
+.lq:hover{
+    background-color: rgba(3, 255, 3, 0.6);
+    padding: 2px;
+    border-radius: 10px;
+}
+.pz:hover{
+    background-color: rgba(255, 255, 0, 0.6);
+    padding: 2px;
+    border-radius: 10px;
+}
+.iu:hover{
+    background-color: rgba(245, 76, 9, 0.6);
+    padding: 2px;
+    border-radius: 10px;
+}
+.ms:hover{
+    background-color: rgba(0, 255, 200, 0.6);
+    padding: 2px;
+    border-radius: 10px;
+}
+.qg:hover{
+    background-color: rgba(115, 11, 146, 0.6);
+    padding: 2px;
+    border-radius: 10px;
+}
+.kk:hover{
+    background-color: rgba(3, 10, 255, 0.6);
+    padding: 2px;
+    border-radius: 10px;
+}
+.orion:hover{
+    background-color: rgba(3, 255, 3, 0.6);
+    padding: 2px;
+    border-radius: 10px;
+
+}
+.venue{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    border: 2px solid black;
+    height: 250px;
+    border-radius: 15px;
+    background-color: rgba(100, 150, 50, 0.6);
+}
+.psl{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

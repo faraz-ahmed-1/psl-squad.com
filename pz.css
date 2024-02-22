@@ -1,0 +1,44 @@
+body{
+    background-image: url(Peshawar\ Zalmi\ Logo.jpg);
+    background-size: 50%;
+}*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+.squad-pz{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: rgba(255, 255, 0, 0.6);
+    border: 2px solid black;
+    border-radius: 12px;
+    height: 600px;
+    margin-left: 400px;
+    width: 500px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
